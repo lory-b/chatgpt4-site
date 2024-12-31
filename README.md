@@ -1,6 +1,6 @@
 # **ChatGPT中文版：国内访问全攻略（支持 GPT-4 和 MJ 绘图，无需翻墙）**
 
-**更新时间：2024/12/01**  
+**更新时间：2025/1/1**  
 **作者：lory-b**  
 
 全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和多功能应用！  
@@ -47,8 +47,8 @@ ChatGPT 中文版是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，�
 
 | 镜像站名称       | 地址                          | 支持版本            | 免费额度         | 注册方式        | 稳定性          |
 |------------------|-------------------------------|---------------------|------------------|-----------------|-----------------|
-| **蛇语 AI**      | [https://snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5      | 部分免费         | 邮箱注册         | 高               |
-| **GPT 猫中文站** | [https://gptcat.net](https://gptcat.net)         | GPT-4, GPT-o1       | 部分免费         | 邮箱注册         | 高               |
+| **蛇语 AI**      | [https://snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5，GPT4o      | 部分免费         | 邮箱注册         | 高               |
+| **GPT 猫中文站** | [https://gptcat.net](https://gptcat.net)         | GPT-4, GPT4o，GPT-o1       | 部分免费         | 邮箱注册         | 高               |
 | **熊猫 GPT**     | [https://ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)     | GPT-4, GPT-3.5      | 部分免费         | 邮箱注册         | 高               |
 | **狗狗 GPT**     | [https://gptdog.online](https://gptdog.online)   | GPT-3.5             | 部分免费         | 国内邮箱注册     | 中               |
 
